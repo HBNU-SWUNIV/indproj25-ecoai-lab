@@ -1,5 +1,4 @@
 # Source Code
-## System Architecture & Source Code
 
 본 프로젝트는 ROS 및 Gazebo 환경에서 **TurtleBot3**를 활용하는 자율주행 주차 알고리즘입니다. 
 
